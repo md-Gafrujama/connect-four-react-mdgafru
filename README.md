@@ -1,19 +1,35 @@
-Connect Four - React
-Table of Contents
+Connect Four - Reac--
+
+Table of Content
+--
 Overview
+--
 Features
+--
 Technologies Used
+--
 Project Structure
+--
 Getting Started
+--
 Prerequisites
+--
 Installation
+--
 Running Locally
+--
 Game Rules
+--
 Demo
+--
 Future Enhancements
+--
 Contributing
+--
 License
+--
 Acknowledgements
+--
 Overview
 Connect Four is a two-player game where players take turns dropping colored discs into a vertically-suspended grid.
 
@@ -46,20 +62,19 @@ CSS: Custom styles for the game interface and board elements.
 ESLint/Prettier: Enforces code quality and formatting consistency.
 
 Project Structure
-php
-Copy code
+--
 .
 ├── public               # Static assets like images
 ├── src
-│   ├── components       # Reusable components (GameBoard, Disc, etc.)
-│   ├── hooks            # Custom hooks for game logic and state
-│   ├── styles           # Global and component-specific CSS
-│   ├── App.tsx          # Main component rendering the game
-│   └── index.tsx        # Entry point for the React app
-├── .eslintrc.json       # ESLint configuration
-├── tsconfig.json        # TypeScript settings
-├── vite.config.ts       # Vite configuration
-└── package.json         # Project dependencies and scripts
+│  -- ├── components       # Reusable components (GameBoard, Disc, etc.)
+│  -- ├── hooks            # Custom hooks for game logic and state
+│  -- ├── styles           # Global and component-specific CSS
+│  -- ├── App.tsx          # Main component rendering the game
+│  -- └── index.tsx        # Entry point for the React app
+├──-- .eslintrc.json       # ESLint configuration
+├──-- tsconfig.json        # TypeScript settings
+├── --vite.config.ts       # Vite configuration
+└──-- package.json         # Project dependencies and scripts
 Getting Started
 Prerequisites
 Ensure you have the following tools installed:
