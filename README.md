@@ -64,17 +64,17 @@ ESLint/Prettier: Enforces code quality and formatting consistency.
 Project Structure
 --
 .
-├── public               # Static assets like images
-├── src
-│  -- ├── components       # Reusable components (GameBoard, Disc, etc.)
-│  -- ├── hooks            # Custom hooks for game logic and state
-│  -- ├── styles           # Global and component-specific CSS
-│  -- ├── App.tsx          # Main component rendering the game
-│  -- └── index.tsx        # Entry point for the React app
-├──-- .eslintrc.json       # ESLint configuration
-├──-- tsconfig.json        # TypeScript settings
-├── --vite.config.ts       # Vite configuration
-└──-- package.json         # Project dependencies and scripts
+--public               # Static assets like images
+--src
+-- components       # Reusable components (GameBoard, Disc, etc.)
+  -- hooks            # Custom hooks for game logic and state
+  -- styles           # Global and component-specific CSS
+--  App.tsx          # Main component rendering the game
+  -- index.tsx        # Entry point for the React app
+  -- .eslintrc.json       # ESLint configuration
+-- tsconfig.json        # TypeScript settings
+--vite.config.ts       # Vite configuration
+-- package.json         # Project dependencies and scripts
 Getting Started
 Prerequisites
 Ensure you have the following tools installed:
