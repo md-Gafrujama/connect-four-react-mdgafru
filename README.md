@@ -70,29 +70,24 @@ npm or yarn
 
 Installation
 Clone the repository:
-
-bash
-Copy code
+--
 git clone https://github.com/md-Gafrujama/connect-four-react-mdgafru.git
 cd connect-four-react-mdgafru
 Install the project dependencies:
 
-bash
-Copy code
+--
 npm install
 Running Locally
 Start the development server:
 
-bash
-Copy code
+--
 npm run dev
 Open your browser at http://localhost:3000 to view the game.
 
 Production Build
 For production-ready builds, run:
 
-bash
-Copy code
+--
 npm run build
 The optimized build will be available in the dist directory, ready for deployment.
 
