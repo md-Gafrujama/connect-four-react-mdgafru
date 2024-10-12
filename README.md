@@ -116,7 +116,7 @@ If the board is filled with no winner, the game ends in a draw.
 
 The game can be reset anytime with the reset button.
 
-Demo
+--Demo
 Check out the live demo of the game here.
 
 Future Enhancements
